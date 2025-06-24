@@ -40,9 +40,3 @@ class CharLabelConverter:
     def decode(self, indices):
         # indices: tensor of shape (B,)
         return [self.idx2char[idx.item()] for idx in indices]
-
-
-def format_string_for_wer(str):
-    str = re.sub("([\[\]{}/\\()\"'&+*=<>?.;:,!\-—_€#%°])", r" \1 ", str)
-    str = re.sub("([ \n])+", " ", str).strip()
-    return str

@@ -36,4 +36,4 @@ We posit that handwriting recognition benefits from complementary cues carried b
 
 ## 📦 Installation
 
-Comming Soon
+Coming Soon

@@ -37,3 +37,8 @@ We posit that handwriting recognition benefits from complementary cues carried b
 ## 📦 Installation
 
 Coming Soon
+---
+## 🪪 License
+
+This repository is released under the <strong>MIT License</strong> (add a <code>LICENSE</code> file if not present).  
+© 2025 The authors. All rights reserved where applicable.
